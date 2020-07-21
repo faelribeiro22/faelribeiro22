@@ -1,20 +1,17 @@
-### Rafael Ribeiro de Sousa -- @faelribeiro22
+<h1 align="center">Hi 👋, I'm Rafael</h1>
+<h3 align="center">A passionate frontend developer from Brazil - Uberlândia - Minas Gerais</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faelribeiro22" alt="faelribeiro22" /> </p>
 
-- 💬 Olá, sou o Rafael, desenvolvedor Front end JR na Luiza Labs desenvolvendo soluções voltadas para B2B utilizando React. Anteriormente trabalhei na startup Vitta usando tecnologias como VueJs. Além disso sou um leitor de Bernard Cornwell, jogador casual e fã de filmes e podcasts de terror.
+- 🔭 I’m currently working on **LuizaLabs Uberlândia**
 
-🌱 Atualmente estou estudando desenvolvimento de sites estáticos usando Gatsby. Também estou desenvolvendo um game clone de Mega Man usando a unity.
+- 💬 Ask me about **react, vue, javascript**
 
-<!--
-**faelribeiro22/faelribeiro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **faelribeirodesousa@gmail.com**
 
-Here are some ideas to get you started:
+<p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=faelribeiro22&show_icons=true" alt="faelribeiro22" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://dev.to/faelribeiro22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="faelribeiro22" height="20" width="20" /></a>
+<a href="https://twitter.com/faelribeiro22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="faelribeiro22" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/rafael-ribeiro-de-sousa-8428b172" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafael-ribeiro-de-sousa-8428b172" height="20" width="20" /></a>
+</p>
