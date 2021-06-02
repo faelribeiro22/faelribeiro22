@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faelribeiro22" alt="faelribeiro22" /> </p>
 
-- 🔭 I’m currently working on **LuizaLabs**
+- 🔭 I’m currently working on **Stilingue**
 
 - 🌱 I’m currently learning **React, TDD, Design Systen**
 
