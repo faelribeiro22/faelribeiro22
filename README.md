@@ -2,7 +2,10 @@
 
 ### Desenvolvedor Frontend Sênior | React | TypeScript | Tailwind CSS
 
-\<a href="[https.linkedin.com/in/rafael-ribeiro-de-sousa](https://www.google.com/search?q=https://https.linkedin.com/in/rafael-ribeiro-de-sousa)" target="\_blank"\>\<img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-%25230077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" target="\_blank"\>\</a\>
+* **Email:** [faelribeirodesousa@gmail.com](mailto:faelribeirodesousa@gmail.com)
+* **LinkedIn:** [linkedin.com/in/rafael-ribeiro-de-sousa](https://www.google.com/search?q=https://linkedin.com/in/rafael-ribeiro-de-sousa)
+* **GitHub:** [github.com/faelribeiro22](https://www.google.com/search?q=https://github.com/faelribeiro22)
+
 
 -----
 
