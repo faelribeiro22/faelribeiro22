@@ -1,34 +1,93 @@
-<h1 align="center">Hi 👋, I'm Rafael Ribeiro de Sousa</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+# Olá, sou o Rafael Ribeiro de Sousa\! 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=faelribeiro22&label=Profile%20views&color=0e75b6&style=flat" alt="faelribeiro22" /> </p>
+### Desenvolvedor Frontend Sênior | React | TypeScript | Tailwind CSS
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faelribeiro22" alt="faelribeiro22" /></a> </p>
+\<a href="[https.linkedin.com/in/rafael-ribeiro-de-sousa](https://www.google.com/search?q=https://https.linkedin.com/in/rafael-ribeiro-de-sousa)" target="\_blank"\>\<img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge\&logo=linkedin\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-%25230077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" target="\_blank"\>\</a\>
 
-<p align="center"> <a href="https://twitter.com/faelribeiro22" target="blank"><img src="https://img.shields.io/twitter/follow/faelribeiro22?logo=twitter&style=for-the-badge" alt="faelribeiro22" /></a> </p>
+-----
 
-<!-- - 🔭 I’m currently working on **Stilingue** -->
+### 👨‍💻 Sobre Mim
 
-- 🌱 I’m currently learning **React, TDD, Design Systen**
+Desenvolvedor Frontend com mais de 8 anos de experiência, sou especialista em criar e otimizar sistemas com foco em React. Minha paixão é construir interfaces ricas e performáticas, sempre aplicando padrões de projeto como a composição de componentes.
 
-- 💬 Ask me about **react, vue, javascript**
+Sou um profissional proativo, orientado a resultados e com excelente capacidade de colaboração em equipes multidisciplinares. Tenho uma visão sistêmica que me permite traduzir as necessidades dos clientes em soluções técnicas eficientes, buscando sempre o autodesenvolvimento e a entrega de valor contínua.
 
-- 📫 How to reach me **faelribeirodesousa@gmail.com**
+-----
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/faelribeiro22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="faelribeiro22" height="30" width="40" /></a>
-<a href="https://twitter.com/faelribeiro22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faelribeiro22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rafael-ribeiro-de-sousa-8428b172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-ribeiro-de-sousa-8428b172" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/121310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="121310" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucchai0slhwsrrxiq0q0dtzq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucchai0slhwsrrxiq0q0dtzq" height="30" width="40" /></a>
-</p>
+### 🚀 Habilidades Técnicas
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**Linguagens & Frameworks:**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faelribeiro22&show_icons=true&locale=en&layout=compact" alt="faelribeiro22" /></p>
+  * React, React Hooks, JSX, Next.js
+  * TypeScript, JavaScript (ES6+)
+  * HTML5, CSS3, SCSS
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=faelribeiro22&show_icons=true&locale=en" alt="faelribeiro22" /></p>
+**UI & Estilização:**
 
-<p align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=faelribeiro22&" alt="faelribeiro22" /></p>
+  * Tailwind CSS, Styled Components
+  * Storybook, Design Systems
+
+**Gerenciamento de Estado & Dados:**
+
+  * Context API, Redux, Zustand
+  * React Query, Apollo Client
+  * REST, HTTP, XHR, GraphQL
+
+**Ferramentas & Ecossistema:**
+
+  * Git, NPM, Yarn
+  * Jira, Figma, Docker
+
+**Autenticação & Testes:**
+
+  * JWT (JSON Web Token)
+  * Jest, Testing Library, Cypress (TDD)
+
+-----
+
+### 💼 Experiência Profissional
+
+**Desenvolvedor Front-end | Compass UOL (Janeiro 2023 - Novembro 2024)**
+
+  * Desenvolvimento de sistemas para clientes internos, alinhados às necessidades de negócio e projetos de UI/UX.
+  * Implementação de desenvolvimento guiado por testes (TDD), garantindo cobertura de testes superior a 80%.
+  * Participação ativa em cerimônias ágeis e colaboração com Analistas de Sistemas na validação de requisitos.
+  * Criação e manutenção de documentação técnica.
+
+**Desenvolvedor Front-end | Vetta (Janeiro 2022 - Novembro 2022)**
+
+  * Manutenção preventiva e corretiva de sistemas para clientes do setor industrial.
+  * Participação em revisões de código (code reviews) para promover a qualidade e boas práticas.
+  * Colaboração em ambientes multiculturais e multidisciplinares.
+
+**Desenvolvedor Front-end | Stilingue (Fevereiro 2021 - Janeiro 2022)**
+
+  * Desenvolvimento de soluções B2B para visualização e solicitação de relatórios.
+  * Contribuição na criação e evolução de um Design System com foco na composição de componentes.
+  * Utilização de Python para integração de serviços e consumo de APIs REST no back-end.
+
+**Desenvolvedor Front-end | Softbox/Luizalabs (Fevereiro 2019 - Janeiro 2021)**
+
+  * Desenvolvimento da plataforma de catálogo de produtos B2B (Magalu Empresas) com componentes reutilizáveis.
+  * Desenvolvimento do módulo de finalização de compras para projetos da Editora Moderna.
+
+-----
+
+### 🎓 Formação Acadêmica
+
+  * **Licenciatura em Computação** - IFTM (Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro)
+      * *Concluído em 03/2025*
+
+-----
+
+### 🏆 Cursos e Certificações
+
+  * **Testes de Software** | UFMG (Curso de extensão, 20 horas, 2021)
+
+-----
+
+### 📫 Contato
+
+  * **Email:** [faelribeirodesousa@gmail.com](mailto:faelribeirodesousa@gmail.com)
+  * **LinkedIn:** [linkedin.com/in/rafael-ribeiro-de-sousa](https://www.google.com/search?q=https://linkedin.com/in/rafael-ribeiro-de-sousa)
+  * **GitHub:** [github.com/faelribeiro22](https://www.google.com/search?q=https://github.com/faelribeiro22)
